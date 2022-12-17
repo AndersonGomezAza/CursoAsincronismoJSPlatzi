@@ -1,0 +1,16 @@
+{
+  "name": "curso-de-asincronismo-con-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JS",
+    "JavaScript",
+    "Asincronismo"
+  ],
+  "author": "Anderson Gomez <argomeza@itc.edu.co>",
+  "license": "MIT"
+}
